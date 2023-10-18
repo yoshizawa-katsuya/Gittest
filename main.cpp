@@ -37,8 +37,9 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(10, 30, "1011");
 
 		Novice::ScreenPrintf(10, 50, "マージ");
+    
+		Novice::ScreenPrintf(10, 50, "マージしない");
 
-		Novice::ScreenPrintf(10, 50, "マージする");
 
 		///
 		/// ↑描画処理ここまで
