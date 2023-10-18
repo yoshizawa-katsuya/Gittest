@@ -36,7 +36,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(10, 10, "LC1A_27_Hello");
 		Novice::ScreenPrintf(10, 30, "1011");
 
-
+		Novice::ScreenPrintf(10, 50, "マージ");
 		///
 		/// ↑描画処理ここまで
 		///
