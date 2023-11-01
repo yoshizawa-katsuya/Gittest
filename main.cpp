@@ -40,8 +40,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
     
 		Novice::ScreenPrintf(10, 50, "マージしない");
 
-
-		Novice::ScreenPrintf(10, 70, "プルリクエストの作成");
+		Novice::ScreenPrintf(10, 70, "プルしてから作業");
 
 		///
 		/// ↑描画処理ここまで
